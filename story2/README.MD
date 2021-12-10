@@ -32,7 +32,7 @@ Create endpoint on vertex AI platform.
 
 Deploy the model to the created enpoint and predict using the endpoint. 
 
-Flask Application
+FLASK APPLICATION:
 
 Requirements :
 pip3 install torch
