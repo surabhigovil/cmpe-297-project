@@ -1,0 +1,13 @@
+<html>
+<body>
+  {% for i in texts %}
+   {% for j in i %}
+	{% for text in j %}
+	<h1>=========GENERATED SEQUENCE =============</h1>
+      <p>{{ text }} </p>
+      <h1>======================================</h1>
+    {% endfor %}
+   {% endfor %}
+  {% endfor %}
+</body>
+</html>
