@@ -1,3 +1,4 @@
+##Comic Generator using GPT2 
 In google cloud platform create a project and enable vertexAI API, Google cloud storage API, container registry API and notebook API. 
 In google cloud platform create a pytorch notebook using the command below.
 
