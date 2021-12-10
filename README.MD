@@ -1,4 +1,5 @@
-								COMIC GENERATOR USING GPT2
+								
+# Comic Generator using GPT2 
 
 In google cloud platform create a project and enable vertexAI API, Google cloud storage API, container registry API and notebook API. 
 
