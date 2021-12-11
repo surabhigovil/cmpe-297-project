@@ -4,6 +4,7 @@
 Directory Structure: 
 
 Application: Contains Story Gneration notebook deployed on Vertex AI using custom pipeline.
+
 Notebooks: Story generation colab and colab with image generation on top of story generation.
 
 # Fine Tuning GPT2
