@@ -7,6 +7,8 @@ Application: Contains Story Gneration notebook deployed on Vertex AI using custo
 
 Notebooks: Story generation colab and colab with image generation on top of story generation.
 
+Documentation: Project video presnetation, Project Paper
+
 # Fine Tuning GPT2
 
 GPT-2 is a language model comes from OpenAI’s paper “Language Models are Unsupervised Multitask Learners”. GPT was a variation of the famous Transformer architecture proposed by the Google Brain team in their paper “Attention is all You Need” . Fine tuning it can enable us to write long and engaging stories. 
