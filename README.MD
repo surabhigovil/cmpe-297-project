@@ -16,7 +16,9 @@ The perfromance of the fine tuned network
 
 # Image Generation using Deep Daze library
 
+Simple command line tool for text to image generation using OpenAI's CLIP and Siren. Helped us achieve good results for image generation from paragraphs of text.
 
+![image](https://user-images.githubusercontent.com/10840984/145663899-3a9a3d26-9598-46ac-8c25-020473c4d271.png)
 
 # MLOps using Vertex AI
 In google cloud platform create a project and enable vertexAI API, Google cloud storage API, container registry API and notebook API. 
