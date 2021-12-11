@@ -1,6 +1,24 @@
 								
 # Comic Generator using GPT2 
 
+# Fine Tuning GPT2
+
+GPT-2 is a language model comes from OpenAI’s paper “Language Models are Unsupervised Multitask Learners”. GPT was a variation of the famous Transformer architecture proposed by the Google Brain team in their paper “Attention is all You Need” . Fine tuning it can enable us to write long and engaging stories. 
+
+We using this projet tried to achieve just that. WritingPrompts is a dataset published by Facebook AI Research intending to make machines able to compose a long and consistent story we used that to generate long form text or stories usoing GPT2.
+
+Perplexity score before fien tuning the model: 
+
+![image](https://user-images.githubusercontent.com/10840984/145663578-919f59cc-5edd-4c9b-9ee6-c7de87ba6f51.png)
+
+The perfromance of the fine tuned network 
+![W B Chart 12_10_2021, 5_55_38 PM](https://user-images.githubusercontent.com/10840984/145663418-40904454-3eef-40f0-88fb-5c83ae2d353e.png)
+
+# Image Generation using Deep Daze library
+
+
+
+# MLOps using Vertex AI
 In google cloud platform create a project and enable vertexAI API, Google cloud storage API, container registry API and notebook API. 
 
 In google cloud platform create a pytorch notebook using the command below.
