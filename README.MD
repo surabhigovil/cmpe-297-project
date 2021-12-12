@@ -15,12 +15,17 @@ GPT-2 is a language model comes from OpenAI’s paper “Language Models are Uns
 
 We using this projet tried to achieve just that. WritingPrompts is a dataset published by Facebook AI Research intending to make machines able to compose a long and consistent story we used that to generate long form text or stories usoing GPT2.
 
-Perplexity score before fien tuning the model: 
+Perplexity score before fine tuning the model: 
 
 ![image](https://user-images.githubusercontent.com/10840984/145663578-919f59cc-5edd-4c9b-9ee6-c7de87ba6f51.png)
 
+Perplexity score after fine tuning the model: 
+![image](https://user-images.githubusercontent.com/10840984/145697350-115041d0-7fd6-46fe-b57b-6cba78c4c645.png)
+
 The perfromance of the fine tuned network 
-![W B Chart 12_10_2021, 5_55_38 PM](https://user-images.githubusercontent.com/10840984/145663418-40904454-3eef-40f0-88fb-5c83ae2d353e.png)
+![W B Chart 12_11_2021, 5_43_42 PM](https://user-images.githubusercontent.com/10840984/145697355-e5aa88de-5b37-4d44-9007-b9f63bad7273.png)
+
+![W B Chart 12_11_2021, 5_43_53 PM](https://user-images.githubusercontent.com/10840984/145697357-5da87134-23d9-4537-a0dc-215838e5c50e.png)
 
 # Image Generation using Deep Daze library
 
